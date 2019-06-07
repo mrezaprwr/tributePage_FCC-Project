@@ -1,0 +1,60 @@
+html {
+	font-size: 16px;
+}
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+h1 {
+	font-size: 3rem;
+	margin: 10px;
+}
+.jumbotron {
+	padding: 30px;
+	margin-bottom: 30px;
+	color: inherit;
+	background-color: #eee;
+
+}
+
+#title {
+	text-align: center;
+}
+#img-div{
+	display: block;
+	
+	width: 97%;
+	text-align: center;
+	padding: 10px;
+
+	background-color: white;
+	margin: auto;
+}
+
+#img-caption {
+	padding: auto;
+	margin: 10px;
+}
+#image{
+	padding: 10px;
+}
+#headline {
+	margin: 50px 0px;
+	text-align: center;
+}
+li {
+	margin: 16px 0px;
+}
+ul {
+	padding-left: 40px;
+	margin: 0px 300px 50px 300px;  
+}
+blockquote{
+	margin: 0 auto 50px auto;
+	max-width: 611px;
+	text-align: left;
+	font-style: italic; 
+
+}
+.more-info {
+	text-align: center;
+}
